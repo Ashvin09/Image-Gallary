@@ -1,0 +1,45 @@
+body{
+font-family: "Times New Roman", Georgia, Serif;
+}
+.maincontainer{
+width: 100%;
+}
+
+.contentwrapper {
+overflow: hidden 
+}
+
+.container {
+max-width: 620px;
+width: auto;
+text-align: center;
+max-height: 400px;
+height: auto;
+}
+
+.container img {
+height: auto;
+max-width: 100%;
+max-height: 300px;
+width: auto;
+}
+
+.details{ 
+max-width: 620px;
+width: auto;
+text-align: center;
+max-height: 400px;
+height: auto;
+}
+
+.details  img {
+border: 1px solid #999;
+height: 80px;
+max-width: 15%;
+width: auto;
+margin-right: 10px;
+margin-bottom: 10px;
+margin-top: 3%;
+}
+
+
